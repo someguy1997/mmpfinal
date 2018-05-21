@@ -1,0 +1,16 @@
+h1{text-align: center}
+h2{text-align: center}
+
+p {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+body{background-color: lightgreen}
+body{font-family: sans-serif}
+body{font-size: 25px}
+h2{color: darkgreen}
+h1{color: darkgreen}
+a{text-decoration: none}
+img{margin-left: 25%;
+margin-right: 25%;}
